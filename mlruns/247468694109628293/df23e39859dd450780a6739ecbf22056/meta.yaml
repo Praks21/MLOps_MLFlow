@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/247468694109628293/df23e39859dd450780a6739ecbf22056/artifacts
+end_time: 1742749950287
+entry_point_name: ''
+experiment_id: '247468694109628293'
+lifecycle_stage: active
+run_id: df23e39859dd450780a6739ecbf22056
+run_name: gifted-snipe-896
+run_uuid: df23e39859dd450780a6739ecbf22056
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742749927499
+status: 3
+tags: []
+user_id: prakh

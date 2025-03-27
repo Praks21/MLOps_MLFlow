@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2416867aae7d4297b457871e97fea527/artifacts
+deleted_time: 1742575569877
+end_time: 1742573788585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2416867aae7d4297b457871e97fea527
+run_name: blushing-bear-892
+run_uuid: 2416867aae7d4297b457871e97fea527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742573788440
+status: 4
+tags: []
+user_id: prakh

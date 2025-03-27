@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/bd0d2ccbb54e458e845fd54d5f4d2905/artifacts
+deleted_time: 1742575569876
+end_time: 1742573808838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bd0d2ccbb54e458e845fd54d5f4d2905
+run_name: bedecked-sponge-455
+run_uuid: bd0d2ccbb54e458e845fd54d5f4d2905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742573808702
+status: 3
+tags: []
+user_id: prakh

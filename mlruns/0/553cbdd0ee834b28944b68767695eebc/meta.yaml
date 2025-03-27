@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/553cbdd0ee834b28944b68767695eebc/artifacts
+end_time: 1742575544863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 553cbdd0ee834b28944b68767695eebc
+run_name: awesome-bass-451
+run_uuid: 553cbdd0ee834b28944b68767695eebc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742575544741
+status: 3
+tags: []
+user_id: prakh

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/247468694109628293/63025cfacaca45879b9e9a3a61141e99/artifacts
+end_time: 1742576972407
+entry_point_name: ''
+experiment_id: '247468694109628293'
+lifecycle_stage: active
+run_id: 63025cfacaca45879b9e9a3a61141e99
+run_name: silent-ray-198
+run_uuid: 63025cfacaca45879b9e9a3a61141e99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742576970977
+status: 3
+tags: []
+user_id: prakh

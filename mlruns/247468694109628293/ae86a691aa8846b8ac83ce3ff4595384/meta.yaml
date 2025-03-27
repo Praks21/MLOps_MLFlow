@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/247468694109628293/ae86a691aa8846b8ac83ce3ff4595384/artifacts
+end_time: 1742577463964
+entry_point_name: ''
+experiment_id: '247468694109628293'
+lifecycle_stage: active
+run_id: ae86a691aa8846b8ac83ce3ff4595384
+run_name: painted-robin-448
+run_uuid: ae86a691aa8846b8ac83ce3ff4595384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742577462397
+status: 3
+tags: []
+user_id: prakh

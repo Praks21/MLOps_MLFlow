@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3b8eda7946d64b6ea150afb2d3fe1db0/artifacts
+deleted_time: 1742575569870
+end_time: 1742573607192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3b8eda7946d64b6ea150afb2d3fe1db0
+run_name: treasured-mule-471
+run_uuid: 3b8eda7946d64b6ea150afb2d3fe1db0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742573607060
+status: 3
+tags: []
+user_id: prakh

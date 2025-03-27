@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/75d8f4b44bd64888927f55ed52bee3b1/artifacts
+deleted_time: 1742575569870
+end_time: 1742573772573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 75d8f4b44bd64888927f55ed52bee3b1
+run_name: flawless-fly-748
+run_uuid: 75d8f4b44bd64888927f55ed52bee3b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742573772409
+status: 4
+tags: []
+user_id: prakh
